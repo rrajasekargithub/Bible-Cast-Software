@@ -2,10 +2,10 @@
   "background": "#000000",
   "textColor": "#ffffff",
   "refColor": "#00b4f0",
-  "fontSize": 50,
-  "refSize": 50,
-  "fontName": "ATM_038.ttf",
-  "previewFont": "ATM_038.ttf",
+  "fontSize": 40,
+  "refSize": 40,
+  "fontName": "AnekTamil-Bold.ttf",
+  "previewFont": "AnekTamil-Bold.ttf",
   "layout": "lowerthird",
   "theme": "titlecard",
   "transition": "words",
@@ -13,8 +13,8 @@
   "showRef": true,
   "showBook": false,
   "searchMin": 4,
-  "bookLang": "tamil",
+  "bookLang": "both",
   "wrapChars": 70,
   "maxLines": 4,
-  "tamilFont": "ATM_020.ttf"
+  "tamilFont": "ATM_038.ttf"
 }
