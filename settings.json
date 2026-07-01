@@ -2,10 +2,10 @@
   "background": "#000000",
   "textColor": "#ffffff",
   "refColor": "#00b4f0",
-  "fontSize": 40,
-  "refSize": 40,
+  "fontSize": 31,
+  "refSize": 30,
   "fontName": "AnekTamil-Bold.ttf",
-  "previewFont": "AnekTamil-Bold.ttf",
+  "previewFont": "ATM_327.ttf",
   "layout": "lowerthird",
   "theme": "titlecard",
   "transition": "words",
@@ -16,5 +16,6 @@
   "bookLang": "both",
   "wrapChars": 70,
   "maxLines": 4,
-  "tamilFont": "ATM_038.ttf"
+  "tamilFont": "ATM_327.ttf",
+  "enFontSize": 38
 }
